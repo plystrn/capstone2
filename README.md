@@ -20,7 +20,7 @@ The dataset used in this analysis includes information on various shipments, suc
 * Gender: The gender of the customer.
 * Discount Offered: The discount offered on the product.
 * Weight in Grams: The weight of the product.
-* Reached on Time (Y/N): Indicates whether the shipment was on time.
+* Reached on Time (Y/N): Indicates whether the shipment was on time. (1:Late,0:On Time)
 
 ## Analysis
 
@@ -35,15 +35,13 @@ The analysis focuses on:
 
 The results of the analysis include:
 
-* Visualization of late shipment trends over time.
 * Identification of the primary factors contributing to shipment delays.
-* Correlation analysis between late shipments and customer satisfaction metrics.
 * Recommendations for operational improvements.
+* Improving on time delivery will improve cost efficiency by reducing discount offered.
 
 ## Recommendations
 
 Based on the analysis, the following recommendations are proposed:
 
 * Operational Efficiency: Streamline warehouse processes and improve coordination with logistics partners.
-* Technology and Automation: Implement real-time tracking systems and use predictive analytics for proactive issue resolution.
 * Policy Adjustments: Revise shipment policies to prioritize timely deliveries and address common delay factors.
