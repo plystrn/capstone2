@@ -45,3 +45,7 @@ Based on the analysis, the following recommendations are proposed:
 
 * Operational Efficiency: Streamline warehouse processes and improve coordination with logistics partners.
 * Policy Adjustments: Revise shipment policies to prioritize timely deliveries and address common delay factors.
+
+## Tableau Link
+Dashboard : https://public.tableau.com/app/profile/tony.joshua.pongoh/viz/Book1_17176881543480/Dashboard2
+Story : https://public.tableau.com/shared/KFHNB4MY4?:display_count=n&:origin=viz_share_link
